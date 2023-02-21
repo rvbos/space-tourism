@@ -357,6 +357,7 @@ select {
 		flex-direction: column;
 		transform: translateX(100%);
 		transition: transform 500ms ease-in-out;
+		background: rgba(0, 0, 0, 0.95);
 	}
 
 	.primary-navigation[data-visible='true'] {
