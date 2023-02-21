@@ -2,6 +2,8 @@
 
 This is a solution to the [Space tourism website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+Still in progress - the 'technology' tab is not done yet.
+
 ### Screenshots
 
 ![](https://user-images.githubusercontent.com/115529749/220449985-defbef02-b333-42ff-82fd-8c564b50cc73.png)
